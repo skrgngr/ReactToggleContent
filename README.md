@@ -1,4 +1,5 @@
 React Collapse Component Project
+Overview
 This project demonstrates the creation and usage of a simple React Collapse component. The Collapse component allows users to toggle the visibility of certain content when clicking on a button.
 
 Summary
@@ -16,3 +17,4 @@ If you wish to contribute, please submit a pull request. Please refer to the REA
 
 Thanks
 This project is created with inspiration and support from the React and JavaScript community.
+
